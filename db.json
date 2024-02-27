@@ -1,0 +1,15 @@
+{
+  "reviews": [
+    {
+      "id": "892626af-a026-4129-98a6-9b91c649ea9e",
+      "userId": "bbbb",
+      "cafeId": "377197835",
+      "nickname": "bbbb",
+      "content": "리뷰 남겨볼게요",
+      "grade": 3,
+      "createdAt": "2024.02.27 화요일",
+      "dateForOrder": "2024-02-27T06:59:48.647Z",
+      "profileAvatarColor": "#fdb7a2"
+    }
+  ]
+}
